@@ -2,3 +2,4 @@
 applications:
 - name: samplenodjs
   memory: 512M
+  instances: 2
