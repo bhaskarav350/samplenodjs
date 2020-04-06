@@ -1,6 +1,6 @@
 ---
 applications:
-  name: samplenodjs
-  memory: 512M
-  instances: 2
+ - name: samplenodjs
+   memory: 512M
+   instances: 2
 
